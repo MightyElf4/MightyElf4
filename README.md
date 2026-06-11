@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me 🥸
 
 <!--
 **MightyElf4/MightyElf4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 I’m currently working on ...
+- Teaching English as a foreign language 🗣️
+- Growing my programming skills 👾
+- A personal website 🌐
+  
+### 🌱 I’m currently learning ...
+- Omarchy
+- Github
+- Neovim
+- Python
+
+### 💬 Ask me about ...
+- My favorite books/movies/music 📚️
+- How I like to spend my time 😎
+- What I can do for you 👍️
+
+### 📫 How to reach me: ...
+- My Email: Lcunderhill2@gmail.com
+
+#### ⚡ Fun fact: ...
+- You miss 100% of the shots you don't take 🏀 
+
